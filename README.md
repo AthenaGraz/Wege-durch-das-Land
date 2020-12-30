@@ -11,10 +11,5 @@ The Site will be written in HTML and I made some simlpe wireframe-sketches:
   <img src="https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home.jpg" width="400" title="home">
   <img src="https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home_alt.jpg" width="400" alt="accessibility text">
   <img src="https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_articles.jpg" width="400" title="articles">
-  <img src="https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_mobile" width="400" title="mobile">
+  <img src="https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_mobile.jpg" width="400" title="mobile">
 </p>
-
-![home](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home.jpg)
-![home alt](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home_alt.jpg)
-![articles](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_articles.jpg)
-![mobile](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_mobile.jpg)
