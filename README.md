@@ -8,7 +8,7 @@ To do so, we have decided to build a small website wich mirrors some of my findi
 The Site will be written in HTML and I made some simlpe wireframe-sketches:
 
 
-![Optional Text](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home.jpg)
-![Optional Text](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home_alt.jpg)
-![Optional Text]
-![Optional Text]
+![home](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home.jpg)
+![home alt](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home_alt.jpg)
+![articles](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_articles.jpg)
+![mobile]
