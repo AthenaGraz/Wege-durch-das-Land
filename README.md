@@ -11,4 +11,4 @@ The Site will be written in HTML and I made some simlpe wireframe-sketches:
 ![home](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home.jpg)
 ![home alt](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_home_alt.jpg)
 ![articles](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_articles.jpg)
-![mobile]
+![mobile](https://github.com/AthenaGraz/Wege-durch-das-Land/blob/main/img%20for%20readme/COS20_Wege-durch-das-Land_mobile.jpg)
