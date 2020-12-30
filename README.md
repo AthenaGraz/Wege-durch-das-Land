@@ -7,4 +7,4 @@ To do so, we have decided to build a small website wich mirrors some of my findi
 
 The Site will be written in HTML and I made some simlpe wireframe-sketches:
 
-![alt text](COS20_Wege-durch-das-Land_home.jpg)
+![home](COS20_Wege-durch-das-Land_home.jpg)
