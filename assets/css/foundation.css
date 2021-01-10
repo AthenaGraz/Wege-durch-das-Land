@@ -3758,7 +3758,7 @@ a.thumbnail {
           flex-wrap: wrap; }
   [data-whatinput='mouse'] .menu li {
     outline: 0; }
-a:hover {
+.a:hover {
   background-color: lightgrey;
 }
  .menu a,
