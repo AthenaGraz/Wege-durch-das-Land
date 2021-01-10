@@ -3758,12 +3758,10 @@ a.thumbnail {
           flex-wrap: wrap; }
   [data-whatinput='mouse'] .menu li {
     outline: 0; }
-
 a:hover {
   background-color: lightgrey;
 }
-
-  .menu a,
+ .menu a,
   .menu .button {
 	  color:black;
     line-height: 1;
